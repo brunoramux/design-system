@@ -1,0 +1,9 @@
+{
+  "name": "@ignite-ui/ts-config",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "npm run build"
+  },
+  "private": true
+}
