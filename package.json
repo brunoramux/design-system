@@ -8,6 +8,10 @@
     "build": "turbo run build"
   },
   "devDependencies": {
+    "storybook-dark-mode": "^3.0.1",
     "turbo": "^1.10.12"
+  },
+  "dependencies": {
+    "phosphor-react": "^1.4.1"
   }
 }
