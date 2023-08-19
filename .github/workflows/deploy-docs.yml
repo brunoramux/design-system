@@ -19,19 +19,13 @@ jobs:
             
             - run: npm ci
             
-            - name: Run React Build
-              working-directory: ./packages/react
-              run: npm run build
+            - run: npm run build
 
             - name: Run Docs Build
               working-directory: ./packages/docs
               run: npm run build
 
-            - name: Run Tokens Build
-              working-directory: ./packages/tokens
-              run: npm run build
-
-            - name: Run Docs Build
+            - name: Deploy Storyboook
               working-directory: ./packages/docs
               run: npm run deploy-storybook -- --ci --existing-output-dir=storybook-static
               env:
