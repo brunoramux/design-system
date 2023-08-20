@@ -1,5 +1,10 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, Button, TooltipComponent, TooltipProps } from '@ignite-ui/react'
+import {
+  Box,
+  Button,
+  TooltipComponent,
+  TooltipProps,
+} from '@brunoramos-ui/react'
 
 export default {
   title: 'Context/Tooltip',

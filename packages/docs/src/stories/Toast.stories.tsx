@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Button, ToastComponent, ToastProps } from '@ignite-ui/react'
+import { Button, ToastComponent, ToastProps } from '@brunoramos-ui/react'
 
 export default {
   title: 'Context/Toast',

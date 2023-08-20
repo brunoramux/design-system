@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { AccordionComponent, AccordionProps } from '@ignite-ui/react'
+import { AccordionComponent, AccordionProps } from '@brunoramos-ui/react'
 
 export default {
   title: 'Context/Accordion',

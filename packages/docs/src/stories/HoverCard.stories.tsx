@@ -1,5 +1,9 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Button, HoverCardComponent, HoverCardProps } from '@ignite-ui/react'
+import {
+  Button,
+  HoverCardComponent,
+  HoverCardProps,
+} from '@brunoramos-ui/react'
 
 export default {
   title: 'Context/Hover Card',

@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { SwitchComponent, SwitchProps } from '@ignite-ui/react'
+import { SwitchComponent, SwitchProps } from '@brunoramos-ui/react'
 
 export default {
   title: 'Form/Switch',

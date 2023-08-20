@@ -5,7 +5,7 @@ import {
   TextArea,
   TextAreaProps,
   TextInputProps,
-} from '@ignite-ui/react'
+} from '@brunoramos-ui/react'
 
 export default {
   title: 'Form/Text Text Area',

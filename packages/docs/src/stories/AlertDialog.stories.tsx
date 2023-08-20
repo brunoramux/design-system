@@ -3,7 +3,7 @@ import {
   Button,
   AlertDialogComponent,
   AlertDialogProps,
-} from '@ignite-ui/react'
+} from '@brunoramos-ui/react'
 
 export default {
   title: 'Context/Alert Dialog',
