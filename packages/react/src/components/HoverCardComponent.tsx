@@ -87,6 +87,7 @@ const Title = styled('div', {
   color: '$gray100',
 })
 const Content = styled('div', {
+  wordBreak: 'break-all',
   fontSize: '$md',
   fontWeight: '$regular',
   color: '$gray400',

@@ -81,6 +81,7 @@ const AlertDialogTitle = styled(AlertDialog.Title, {
 })
 
 const AlertDialogDescription = styled(AlertDialog.Description, {
+  wordBreak: 'break-all',
   marginBottom: 20,
   color: '$gray400',
   fontSize: 15,

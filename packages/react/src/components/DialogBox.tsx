@@ -1,7 +1,6 @@
 import React, { ReactNode } from 'react'
 import * as Dialog from '@radix-ui/react-dialog'
 import { keyframes } from '@stitches/react'
-import { blackA } from '@radix-ui/colors'
 import { Cross2Icon } from '@radix-ui/react-icons'
 import { styled } from '../styles'
 
@@ -72,6 +71,7 @@ const DialogTitle = styled(Dialog.Title, {
 })
 
 const DialogDescription = styled(Dialog.Description, {
+  wordBreak: 'break-all',
   margin: '10px 0 20px',
   color: '$gray400',
   fontSize: 15,

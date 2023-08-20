@@ -105,6 +105,7 @@ const ToastRoot = styled(Toast.Root, {
 })
 
 const ToastTitle = styled(Toast.Title, {
+  wordBreak: 'break-all',
   fontFamily: '$default',
   fontWeight: '$bold',
   color: '$white',
@@ -112,6 +113,7 @@ const ToastTitle = styled(Toast.Title, {
 })
 
 const ToastContent = styled('div', {
+  wordBreak: 'break-all',
   fontFamily: '$default',
   marginTop: 10,
   color: '$gray200',

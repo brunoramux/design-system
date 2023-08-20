@@ -14,3 +14,5 @@ export * from './components/AlertDialogComponent'
 export * from './components/AccordionComponent'
 export * from './components/SwitchComponent'
 export * from './components/HoverCardComponent'
+
+export * from './styles'

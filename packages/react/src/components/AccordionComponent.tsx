@@ -88,6 +88,7 @@ const slideUp = keyframes({
 })
 
 const StyledContent = styled(Accordion.Content, {
+  wordBreak: 'break-all',
   padding: '15px 20px',
   fontFamily: '$default',
   overflow: 'hidden',

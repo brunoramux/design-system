@@ -45,6 +45,7 @@ const slideLeftAndFade = keyframes({
 })
 
 const TooltipContent = styled(Tooltip.Content, {
+  wordBreak: 'break-all',
   fontFamily: '$default',
   borderRadius: 5,
   padding: '12px 16px',
