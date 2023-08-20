@@ -1,5 +1,5 @@
 {
-  "extends": "@ignite-ui/ts-config/react.json",
+  "extends": "@brunoramos-ui/ts-config/react.json",
   "include": ["src"],
   "compilerOptions": {
     "jsx": "react",
