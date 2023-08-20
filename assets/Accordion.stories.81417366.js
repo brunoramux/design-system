@@ -1,0 +1,2 @@
+import{A as o}from"./index.c4cd9359.js";import"./index.127161be.js";import"./iframe.a568f6b4.js";import"./index.88d552c6.js";import"./jsx-runtime.7442f059.js";const d={title:"Context/Accordion",component:o,args:{content:[{title:"Titulo do Dialog 1",description:"Conteudo do Dialog 1"},{title:"Titulo do Dialog 2",description:"Conteudo do Dialog 2"},{title:"Titulo do Dialog 3",description:"Conteudo do Dialog 3"}]}},c={},l=["Primary"];export{c as Primary,l as __namedExportsOrder,d as default};
+//# sourceMappingURL=Accordion.stories.81417366.js.map

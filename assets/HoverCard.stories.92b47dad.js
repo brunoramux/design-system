@@ -1,0 +1,2 @@
+import{d as r,B as o}from"./index.c4cd9359.js";import{j as t}from"./jsx-runtime.7442f059.js";import"./index.127161be.js";import"./iframe.a568f6b4.js";import"./index.88d552c6.js";const m={title:"Context/Hover Card",component:r,args:{children:t(o,{variant:"primary",id:"child",children:"Testando Hover Card"}),title:"Titulo do Hover Card",content:"Conteudo do Hover Card"}},s={},p=["Primary"];export{s as Primary,p as __namedExportsOrder,m as default};
+//# sourceMappingURL=HoverCard.stories.92b47dad.js.map

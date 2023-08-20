@@ -1,0 +1,2 @@
+import{T as t}from"./index.c4cd9359.js";import{j as r,F as o}from"./jsx-runtime.7442f059.js";import"./index.127161be.js";import"./iframe.a568f6b4.js";import"./index.88d552c6.js";const i={title:"Typografy/Text",component:t,args:{children:r(o,{children:r(t,{children:"Testando o elemento Text"})})}},T={},c={args:{children:"Strong Text",as:"strong"}},p=["Primary","CustomTag"];export{c as CustomTag,T as Primary,p as __namedExportsOrder,i as default};
+//# sourceMappingURL=Text.stories.1711478c.js.map
