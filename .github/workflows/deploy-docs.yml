@@ -19,7 +19,13 @@ jobs:
             
             - run: npm ci
             
-            - run: npm run build
+            - name: Run Docs Build
+              working-directory: ./packages/tokens
+              run: npm run build
+
+            - name: Run Docs Build
+              working-directory: ./packages/react
+              run: npm run build
 
             - name: Run Docs Build
               working-directory: ./packages/docs
